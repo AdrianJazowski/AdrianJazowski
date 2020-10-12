@@ -25,7 +25,7 @@
 
 <br/>
 
-### In my repository you can find projects that I do as part of learning programming. My learning is getting my first job as a junior developer.
+### In my repository you can find projects that I do as part of learning programming. My learning is way to getting my first job as a junior developer.
 
 ### I invite you to check my code
 
