@@ -17,6 +17,16 @@
 <img alt='javascript' align='left' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/>
 <img alt='react' align='left' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/>
 
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="Adrian Jazowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
 ### In my repository you can find projects that I do as part of learning programming. My learning is getting my first job as a junior developer.
 
 ## I invite you to check my code
+
+[linkedin]: https://www.linkedin.com/in/adrian-jazowski/
