@@ -19,10 +19,6 @@
 
 <br/>
 
-### Connect with me:
-
-[<img align="left" alt="Adrian Jazowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br/>
 
 ### In my repository you can find projects that I do as part of learning programming. My learning is way to getting my first job as a junior developer.
