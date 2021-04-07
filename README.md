@@ -29,4 +29,3 @@
 
 ### I invite you to check my code
 
-[linkedin]: https://www.linkedin.com/in/adrian-jazowski/
