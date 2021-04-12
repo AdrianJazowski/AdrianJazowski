@@ -2,11 +2,9 @@
 
 ### I'm a junior FrontEnd developer, and boardgame lover.
 
-- ⚡ I’m currently learning JavaScript and React
+- ⚡ I’m currently learning Javascript, React, Typescript and Redux
 
 - ⚡ If you've found my repository, I'm probably looking for a junior fronted job
-
-<br/>
 
 ### Languages and Tools:
 
